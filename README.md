@@ -30,7 +30,6 @@
 
 ### 메뉴 구성도
 ![슬라이드11](https://user-images.githubusercontent.com/81364415/215390930-336b4eae-8be4-46da-9f6b-d0db4339f356.JPG)
-13d5339e6.JPG)
 
 
 ### 서비스 구성도
